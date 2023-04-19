@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevinkarikurubu
 - 👀 I’m interested in Sofware Developement in general
-- 🌱 I’m currently learning Web3 Technologies
-- 💞️ I’m looking to collaborate on Web3: dAPPs
+- 🌱 I’m currently learning Web3
+- 💞️ I’m looking to collaborate on dAPPs
 - 📫 How to reach me : kevinkarikurubu03@gmail.com
 
 <!---
